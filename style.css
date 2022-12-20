@@ -10,7 +10,11 @@ body {
     line-height: 1.5;
     color: #333;
     background-color: #f4f4f4;
+    @media (min-width: 1px)
+    max-width: none;
 }
+    
+
 h1 {
     font-size: 2.5rem;
     line-height: 1.2;
@@ -82,3 +86,188 @@ h2{
     border: 1px solid #ccc;
     border-radius: 5px;
 }
+
+
+.footer{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 2.5rem;
+    line-height: 1.2;
+}
+@media screen and (max-width: 1024px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 900px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 800px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 768px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+ 
+@media screen and (max-width: 480px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 320px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 280px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 240px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 200px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 160px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 120px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+@media screen and (max-width: 80px){
+    .main{
+        width: 100%;
+    }
+    .form-box{
+        width: 100%;
+    }
+    .caja{
+        width: 100%;
+    }
+    .msg-box{
+        width: 100%;
+    }
+}
+    
+
+
+    
+
+
